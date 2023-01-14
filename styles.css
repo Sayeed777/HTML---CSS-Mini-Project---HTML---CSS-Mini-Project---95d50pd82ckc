@@ -1,5 +1,5 @@
 .bimg{
-    background-image: url(./images/archer1.jpg);
+    background-image: url(./archer1.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -34,7 +34,7 @@
 }
 
 .bimg1{
-    background-image: url(./images/archer3.jpg);
+    background-image: url(./archer3.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -70,7 +70,7 @@
 }
 
 .bimg2{
-    background-image: url(./images/archer2.jpg);
+    background-image: url(./archer2.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -107,7 +107,7 @@
 
 
 .bimg3{
-    background-image: url(./images/tt.jpg);
+    background-image: url(./tt.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
